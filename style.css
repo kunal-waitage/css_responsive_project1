@@ -27,6 +27,7 @@ nav {
   margin: 5px;
   align-items: center;
   margin-top: 10px;
+  box-sizing:border-box;
 }
 .navlist {
   border: 1px solid #f5d76e;
